@@ -1,10 +1,4 @@
 #!/bin/sh
-# Cycle through all sessions of app (e.g VLC) and unmute/mute volume 
-# I used it to watch multiple TV channels especially during prime news hour
-# This script must be run by the user who is playing application to control
-# i.e. pulseaudio must be running
-
-
 # Copyright (C) 2014 Joseph Zikusooka.
 #
 # Contact me at: joseph AT zikusooka.com
